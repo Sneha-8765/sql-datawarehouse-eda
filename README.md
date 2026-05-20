@@ -104,4 +104,4 @@ The project uses a star schema consisting of:
 sql-datawarehouse-eda/
 │── README.md
 │── EDA_Exploration.sql
-│── screenshots/
+
